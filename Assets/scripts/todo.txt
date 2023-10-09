@@ -1,0 +1,58 @@
+-auto fix connection button
+
+-extrude pencil from connector edge
+
+-undo stack
+
+-load/save feature
+
+-camera rotation fix
+
+-snapping
+
+-expose x/y/z transform properties
+
+-add dud/trunk blocking script
+
+-suggest connectors on pencil bud
+
+-duplicate node groups
+
+-lock blocks group select
+
+-pencil slider value
+
+-extra property script
+
+-select/deselect fix
+
+-smart pencil extrude side depending on connected edge
+
+-floor see through fix
+
+-scene blocks listing window
+
+-connectors build window
+
+-connector edge selection hint icon
+
+-add reference number to nodes
+
+-gizmo translation fix
+
+-add mobile interface
+
+-add online xml interface
+
+-edge distance constrain fix
+
+-add different lock constrains
+
+-warning notications window
+
+
+
+
+
+
+
