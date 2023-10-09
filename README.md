@@ -8,6 +8,8 @@ Prototype proof of concent app that is an editor for building 3d gadgets nodes t
 
 Compatible with Unity 5.6x
 
+![](screenshot.png)
+
 # Features
 
 - View editor with mouse navigation
