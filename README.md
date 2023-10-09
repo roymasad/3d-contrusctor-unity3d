@@ -1,4 +1,4 @@
-# 3d-contrusctor-unity3
+# 3d-contrusctor-unity3d
 3d gadget builder prototype in Unity 3d C#
 
 # Description
